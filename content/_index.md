@@ -41,7 +41,7 @@ No faltes.
 
 ## Dónde encontrarnos
 
-Si quieres hablar algo con nosotros en persona, puedes encontrarnos casi todos los días en el local B-102 de la Escuela Politécnica Superior, en la Universidad Autónoma de Madrid.
+Si quieres hablar algo con nosotros en persona, puedes encontrarnos casi todos los días en el local B-102 de la [Escuela Politécnica Superior](https://www.uam.es/eps/inicio), en la [Universidad Autónoma de Madrid](https://www.uam.es/).
 También puedes contactar con nosotros desde Discord, donde colaboramos públicamente entre nosotros para idear y materializar nuestros proyectos.
 
 Lista de enlaces:
