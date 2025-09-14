@@ -1,5 +1,18 @@
+{{ define "header" }}
+    <h1>
+        {{ .Params.Title }}
+    </h1>
+    <p>
+        <em> {{ .Params.Subtitle }} </em>
+    </p>
+{{ end }}
+
 {{ define "main" }}
-    <article>
-        {{ .Content }}
-    </article>
+    {{ .Content }}
+{{ end }}
+
+{{ define "footer" }}
+    <p>
+        {{ .Params.Footer }}
+    </p>
 {{ end }}

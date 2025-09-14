@@ -3,11 +3,13 @@
 
 <head>
     <meta charset="utf-8">
+
+    <link rel="stylesheet" href="https://cdn.simplecss.org/simple.min.css">
 </head>
 
 <body>
     <header>
-        <h1>Header</h1>
+        {{ block "header" . }}{{ end }}
     </header>
 
     <main>
@@ -15,7 +17,7 @@
     </main>
 
     <footer>
-        <p>Footer</p>
+        {{ block "footer" . }}{{ end }}
     </footer>
 </body>
 
