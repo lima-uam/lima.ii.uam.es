@@ -7,7 +7,7 @@ draft = false
     footer = 'Copyright © Laboratorio de Informática y Matemáticas (LIMA) y sus contribuyentes.'
 +++
 
-![Logotipo de LIMA](/images/logo.svg)
+{{< figure src="/images/logo.svg" alt="Logotipo de LIMA" width="50%" >}}
 
 ## Quiénes Somos
 
