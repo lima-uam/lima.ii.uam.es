@@ -30,7 +30,7 @@ jobs:
       - name: Upload Artifact
         uses: actions/upload-artifact@v4
         with:
-          name: hugo-build-public
+          name: public
           path: ./public
           include-hidden-files: true
           if-no-files-found: error
