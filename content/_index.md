@@ -10,9 +10,9 @@ title = 'Laboratorio de Informática y Matemáticas'
 
 ## Quiénes Somos
 
-*Desde el albor de los tiempos, el ser humano ha querido crear.
+_Desde el albor de los tiempos, el ser humano ha querido crear.
 La mente ha querido idear, las manos han querido fabricar.
-Y nosotros informáticos, hemos querido programar.*
+Y nosotros informáticos, hemos querido programar._
 
 Cualquiera puede tener una gran idea.
 Pero no siempre pueden llevarla a cabo.
@@ -44,6 +44,7 @@ Si quieres hablar algo con nosotros en persona, puedes encontrarnos casi todos l
 También puedes contactar con nosotros desde Discord, donde colaboramos públicamente entre nosotros para idear y materializar nuestros proyectos.
 
 Lista de enlaces:
+
 - [¡Únete a la asociación!](/link/unirse)
 - [Servidor de Discord](/link/discord)
 - [Página de GitHub](/link/github)
@@ -54,6 +55,7 @@ Lista de enlaces:
 ## Servicios y proyectos de la asociación
 
 - [Mirror de ArchLinux](/mirror/archlinux)
+- [Advent of Code 2025](/eventos/aoc-2025)
 
 {{< notice >}}
 **Esta web está bajo construcción, ¡poco a poco iremos añadiendo más contenido!**
