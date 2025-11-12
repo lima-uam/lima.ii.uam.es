@@ -1,9 +1,17 @@
 {{ define "main" }}
   {{ .Content }}
 
-  {{ range .Pages }}
-    <h2>
-        <a href="{{ .RelPermalink }}">{{ .LinkTitle }}</a>
-    </h2>
-  {{ end }}
+  <p>
+      <ul>
+          {{- range .Pages -}}
+              <li>
+                  <a href="{{ .RelPermalink }}">{{ .Title }}</a>
+                  <time>
+                      {{ dateFormat ":date_medium" .Date }}
+                      {{ if .Draft }} <strong>DRAFT</strong> {{ end }}
+                  </time>
+              </li>
+          {{- end -}}
+      </ul>
+  </p>
 {{ end }}

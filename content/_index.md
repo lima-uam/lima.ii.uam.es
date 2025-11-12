@@ -1,8 +1,8 @@
 +++
 date = '2025-09-10T21:20:45+02:00'
 draft = false
+title = 'Laboratorio de Informática y Matemáticas'
 [params]
-    title = 'Laboratorio de Informática y Matemáticas'
     subtitle = 'Una asociación de estudiantes de la Escuela Politécnica Superior (EPS), en la Universidad Autónoma de Madrid (UAM).'
 +++
 

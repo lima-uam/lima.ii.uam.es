@@ -9,13 +9,24 @@
     {{ with resources.Get "css/main.css" | minify }}
         <link rel="stylesheet" type="text/css" href="{{ .Permalink }}">
     {{ end }}
+
+    <script defer src="https://cdn.jsdelivr.net/npm/mathjax@4/tex-svg.js"></script>
+
+    <script>
+        MathJax = {
+            tex: {
+                displayMath: [['\\[', '\\]']],
+                inlineMath: [['\\(', '\\)']]
+            }
+        };
+    </script>
 </head>
 
 <body>
     <header>
         {{ block "header" . }}
             <h1>
-                {{ .Params.Title }}
+                {{ .Title }}
             </h1>
             <p>
                 <em> {{ .Params.Subtitle }} </em>
