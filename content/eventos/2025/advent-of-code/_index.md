@@ -1,19 +1,16 @@
 +++
 date = '2025-10-22T14:31:40+02:00'
 draft = true
+title = 'Advent of Code'
 [params]
-    title = 'Advent of Code'
-    subtitle = 'Presentación del evento'
-    footer = 'Copyright © Laboratorio de Informática y Matemáticas (LIMA) y sus contribuyentes.'
+    subtitle = 'Competición Anual AoC Impulsada por LIMA'
 +++
 
-## Advent Of Code 2025
+{{< figure src="./images/aoc.png" alt="Logotipo del Evento LIMA-AoC 2025" >}}
 
-![Advent of code](../../assets/images/aoc.png)
+## ¿Qué es AoC?
 
-### ¿Qué es AoC?
-
-_Advent of Code_ es un evento que se realiza todos los años en el que cada día del mes de diciembre se propone un problema de programación.
+_Advent of Code_ es un evento mundial que se realiza todos los años en el que cada día del mes de diciembre se propone un problema de programación.
 Los problemas son de dificultad variable, por lo que suponen un reto divertido para cualquiera.
 No importa si estás en primero o en quinto, te garantizamos que te lo vas a pasar muy bien.
 
@@ -35,8 +32,8 @@ Una vez que estés registrado, puedes acceder a la sección `[Leaderboards]` e i
 
 Cada día se publica un problema, que consta de dos partes.
 Todos los concursantes que resuelvan una parte se llevan una estrella (es decir, te puedes llevar hasta dos estrellas al día).
-Por cada estrella se reparten también puntos de la siguiente manera: si en el ranking hay $N$ jugadores, el jugador $M$-ésimo en conseguir la estrella se lleva $N-M+1$ puntos.
-De esta manera, el primero se lleva $N$ puntos, el segundo $N-1$ y así sucesivamente hasta el último, que se lleva 1 punto.
+Por cada estrella se reparten también puntos de la siguiente manera: si en el ranking hay \(N\) jugadores, el jugador \(M\)-ésimo en conseguir la estrella se lleva \(N-M+1\) puntos.
+De esta manera, el primero se lleva \(N\) puntos, el segundo \(N-1\) y así sucesivamente hasta el último, que se lleva 1 punto.
 
 El ganador del **Advent of Code de LIMA 2025** será la persona con más puntos.
 
