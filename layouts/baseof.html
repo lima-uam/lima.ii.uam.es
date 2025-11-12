@@ -13,7 +13,14 @@
 
 <body>
     <header>
-        {{ block "header" . }}{{ end }}
+        {{ block "header" . }}
+            <h1>
+                {{ .Params.Title }}
+            </h1>
+            <p>
+                <em> {{ .Params.Subtitle }} </em>
+            </p>
+        {{ end }}
     </header>
 
     <main>
@@ -21,7 +28,11 @@
     </main>
 
     <footer>
-        {{ block "footer" . }}{{ end }}
+        {{ block "footer" . }}
+            <p>
+                Copyright © Laboratorio de Informática y Matemáticas (LIMA) y sus contribuyentes.
+            </p>
+        {{ end }}
     </footer>
 </body>
 

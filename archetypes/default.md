@@ -1,5 +1,7 @@
 +++
 date = '{{ .Date }}'
 draft = true
-title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+[params]
+    title = '{{ replace .File.ContentBaseName "-" " " | title }}'
+    subtitle = 'Lorem Ipsum'
 +++

@@ -4,7 +4,6 @@ draft = false
 [params]
     title = 'Laboratorio de Informática y Matemáticas'
     subtitle = 'Una asociación de estudiantes de la Escuela Politécnica Superior (EPS), en la Universidad Autónoma de Madrid (UAM).'
-    footer = 'Copyright © Laboratorio de Informática y Matemáticas (LIMA) y sus contribuyentes.'
 +++
 
 {{< figure src="/images/logo.svg" alt="Logotipo de LIMA" width="50%" >}}
