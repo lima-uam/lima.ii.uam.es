@@ -55,7 +55,7 @@ Lista de enlaces:
 ## Servicios y proyectos de la asociación
 
 - [Mirror de ArchLinux](/mirror/archlinux)
-- [Advent of Code 2025](/eventos/aoc-2025)
+- [Advent of Code 2025](/eventos/2025/advent-of-code)
 
 {{< notice >}}
 **Esta web está bajo construcción, ¡poco a poco iremos añadiendo más contenido!**

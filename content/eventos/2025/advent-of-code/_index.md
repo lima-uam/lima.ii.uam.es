@@ -1,6 +1,6 @@
 +++
 date = '2025-10-22T14:31:40+02:00'
-draft = true
+draft = false
 title = 'Advent of Code'
 [params]
     subtitle = 'Competición Anual AoC Impulsada por LIMA'
