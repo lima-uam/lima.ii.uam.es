@@ -9,8 +9,7 @@ title = 'Advent of Code'
 {{< figure src="./images/aoc.png" alt="Logotipo del Evento LIMA-AoC 2025" >}}
 
 {{< notice >}}
-**¡Date prisa, que ya ha empezado!**  
-Aún estás a tiempo de unirte, el concurso acaba el 12 de diciembre.
+El ranking se cerrará el lunes a las 00:00.
 {{< /notice >}}
 
 ## ¿Qué es AoC?
