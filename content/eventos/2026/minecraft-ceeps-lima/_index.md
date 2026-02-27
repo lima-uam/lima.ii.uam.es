@@ -43,16 +43,18 @@ Para conectarte debes seguir los siguientes pasos:
 También se comprueba la dirección del remitente para limitarlo a miembros de la comunidad.
 _Usad únicamente el correo institucional_.
 
-## Detalles técnicos
-
-- VPS: AMD EPYC CPU con 4 vCores 3.0GHz y 8GB RAM.
-- Servidor fabric con mods de optimización detrás de un proxy velocity.
-
 {{< notice >}}
 Este servicio está actualmente en pruebas.
 Estamos trabajando para mejorar las prestaciones de la máquina y los juegos que ofrecemos.
 Por el momento el número máximo de jugadores concurrentes estará limitado a **20**.
+Además, puede que resetemos el mapa unas semanas una vez obtengamos una máquina más potente.
 {{< /notice >}}
+
+## Detalles técnicos
+
+- VPS: AMD EPYC CPU con 4 vCores 3.0GHz y 8GB RAM.
+- Servidor fabric con mods de optimización detrás de un proxy velocity.
+- Distancia de renderizado y procesado del servidor dinámica en función de la carga.
 
 En caso de cualquier incidencia escribir a [lima.asociacion@uam.es](mailto:lima.asociacion@uam.es)
 
