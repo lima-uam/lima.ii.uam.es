@@ -55,3 +55,5 @@ Por el momento el número máximo de jugadores concurrentes estará limitado a *
 {{< /notice >}}
 
 En caso de cualquier incidencia escribir a [lima.asociacion@uam.es](mailto:lima.asociacion@uam.es)
+
+[← volver al inicio](/)
