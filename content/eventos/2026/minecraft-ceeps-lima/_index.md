@@ -1,6 +1,6 @@
 +++
 date = '2026-02-27T17:42:33+01:00'
-draft = true
+draft = false
 title = 'Servidor Minecraft CE-EPS LIMA'
 [params]
     subtitle = 'La escuela ya cuenta con servidor de minecraft propio.'
