@@ -10,13 +10,13 @@ title = 'Servidor Minecraft CE-EPS LIMA'
 
 Con motivo de la celebración del día de la EPS 2026 nace el servidor de minecraft oficial de la EPS.
 
-En colaboración con el Consejo de Estudiantes y la Dirección de la Escuela, la **Asociación LIMA** 🍋‍🟩  ofrecerá un servidor vanilla disponible a todos los estudiantes de la EPS durante todas las horas del día.
+En colaboración con el **Consejo de Estudiantes** y la **Dirección de la Escuela**, la **Asociación LIMA** 🍋‍🟩  ofrecerá un servidor vanilla disponible a todos los estudiantes de la EPS durante todas las horas del día.
 
 ## Información básica
 
 - Versión del juego: vanilla `1.21.11`, con actualizaciones cuando salgan versiones posteriores.
 - Modo híbrido premium / no-premium: los jugadores sin el juego comprado pueden acceder al servidor siempre que no usen un nombre de usuario premium.
-  Podéis usar [namemc](https://namemc.com), por ejemplo, para comprobar si el nombre de usuario que queráis usar está registrado a una cuenta de pago.
+  Podéis usar [namemc](https://namemc.com), por ejemplo, para comprobar si el nombre de usuario que queráis usar está registrado ya a una cuenta de pago.
 - [VoiceChat](https://modrinth.com/plugin/simple-voice-chat) para hablar directamente desde el juego.
 - Se permite el uso de mods de cliente y packs de texturas siempre que entren dentro de las **siguientes categorías**:
   - mods de optimización.
