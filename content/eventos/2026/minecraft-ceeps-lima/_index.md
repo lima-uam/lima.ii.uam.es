@@ -6,19 +6,19 @@ title = 'Servidor Minecraft CE-EPS LIMA'
     subtitle = 'La escuela ya cuenta con servidor de minecraft propio.'
 +++
 
-{{< figure src="./images/mc_social_logo.png" width="20%" alt="Logotipo simplificado del videojuego Minecraft" >}}
+{{< figure src="./images/mc_social_logo.png" width="20%" alt="Cara de creeper simplificada representativa del videojuego Minecraft" >}}
 
 Con motivo de la celebración del día de la EPS 2026 nace el servidor de minecraft oficial de la EPS.
 
-En colaboración con el **Consejo de Estudiantes** y la **Dirección de la Escuela**, la **Asociación LIMA** 🍋‍🟩  ofrecerá un servidor vanilla disponible a todos los estudiantes de la EPS durante todas las horas del día.
+El **Consejo de Estudiantes** en colaboración con la Dirección de la Escuela y la **Asociación LIMA** 🍋‍🟩ofrecen un servidor vanilla disponible a todos los estudiantes de la EPS durante todas las horas del día.
 
 ## Información básica
 
 - Versión del juego: vanilla `1.21.11`, con actualizaciones cuando salgan versiones posteriores.
 - Modo híbrido premium / no-premium: los jugadores sin el juego comprado pueden acceder al servidor siempre que no usen un nombre de usuario premium.
   Podéis usar [namemc](https://namemc.com), por ejemplo, para comprobar si el nombre de usuario que queráis usar está registrado ya a una cuenta de pago.
-- [VoiceChat](https://modrinth.com/plugin/simple-voice-chat) para hablar directamente desde el juego.
-- Se permite el uso de mods de cliente y packs de texturas siempre que entren dentro de las **siguientes categorías**:
+- Soporte para [Voice Chat](https://modrinth.com/plugin/simple-voice-chat) para hablar directamente desde el juego y [Distant Horizons](https://modrinth.com/mod/distanthorizons) para incrementar la distancia de renderizado.
+- Aparte de los anteriores se permite el uso de mods de cliente y packs de texturas siempre que entren dentro de las **siguientes categorías**:
   - mods de optimización.
   - fullbright, `gamma:10.0`, no-fog, etc.
   - overlays de desgaste de armadura, tiempo restante de efectos, etc.
@@ -52,7 +52,7 @@ Además, puede que resetemos el mapa unas semanas una vez obtengamos una máquin
 
 ## Detalles técnicos
 
-- VPS: AMD EPYC CPU con 4 vCores 3.0GHz y 8GB RAM.
+- VPS: AMD EPYC CPU con 4 vCores @ 3.0GHz y 8GB RAM.
 - Servidor fabric con mods de optimización detrás de un proxy velocity.
 - Distancia de renderizado y procesado del servidor dinámica en función de la carga.
 
