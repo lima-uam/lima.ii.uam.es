@@ -32,11 +32,10 @@ El **Consejo de Estudiantes** en colaboración con la Dirección de la Escuela y
 
 El servicio está reservado para miembros de la Escuela Politécnica Superior.
 Para conectarte debes seguir los siguientes pasos:
-1. Conéctate a `mc.ceeps.lima.sh` para registrar tu nombre de usuario.
 1. Manda un correo electrónico desde tu **dirección institucional** (@\*.uam.es) a [whitelist.mc.ceeps@lima.sh](mailto:whitelist.mc.ceeps@lima.sh?subject=Whitelist%20MC%20EPS%20LIMA&body=IGN) con los siguientes datos:
     - asunto: `Whitelist MC EPS LIMA`,
     - cuerpo: `<nombre de usuario minecraft>`.
-1. Espera un minuto.
+1. Espera unos segundos
 1. Ya puedes jugar a través de `mc.ceeps.lima.sh`.
 
 **Nota:** el sistema de whitelist por correo electrónico es automático, por lo que el cuerpo y asunto deben coincidir exactamente con lo especificado para que funcione 🤓.
@@ -47,7 +46,7 @@ _Usad únicamente el correo institucional_.
 Este servicio está actualmente en pruebas.
 Estamos trabajando para mejorar las prestaciones de la máquina y los juegos que ofrecemos.
 Por el momento el número máximo de jugadores concurrentes estará limitado a **20**.
-Además, puede que resetemos el mapa unas semanas una vez obtengamos una máquina más potente.
+Además, puede que reseteemos el mapa unas semanas una vez obtengamos una máquina más potente.
 {{< /notice >}}
 
 ## Detalles técnicos
