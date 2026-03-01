@@ -10,7 +10,7 @@ title = 'Servidor Minecraft CE-EPS LIMA'
 
 Con motivo de la celebración del día de la EPS 2026 nace el servidor de minecraft oficial de la EPS.
 
-El **Consejo de Estudiantes** en colaboración con la Dirección de la Escuela y la **Asociación LIMA** 🍋‍🟩ofrecen un servidor vanilla disponible a todos los estudiantes de la EPS durante todas las horas del día.
+El **Consejo de Estudiantes** en colaboración con la Dirección de la Escuela y la **Asociación LIMA** 🍋‍🟩 ofrecen un servidor vanilla disponible a todos los estudiantes de la EPS durante todas las horas del día.
 
 ## Información básica
 
@@ -35,7 +35,7 @@ Para conectarte debes seguir los siguientes pasos:
 1. Manda un correo electrónico desde tu **dirección institucional** (@\*.uam.es) a [whitelist.mc.ceeps@lima.sh](mailto:whitelist.mc.ceeps@lima.sh?subject=Whitelist%20MC%20EPS%20LIMA&body=IGN) con los siguientes datos:
     - asunto: `Whitelist MC EPS LIMA`,
     - cuerpo: `<nombre de usuario minecraft>`.
-1. Espera unos segundos
+1. Espera unos segundos.
 1. Ya puedes jugar a través de `mc.ceeps.lima.sh`.
 
 **Nota:** el sistema de whitelist por correo electrónico es automático, por lo que el cuerpo y asunto deben coincidir exactamente con lo especificado para que funcione 🤓.
